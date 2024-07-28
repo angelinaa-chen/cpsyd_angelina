@@ -1,0 +1,11 @@
+Word,Image1,Image2,Question,Correct,Type
+purple,q1_1.png,q1_2.png,What color is this?,J,normal
+green,q2_11.png,q2_22.png,What color is this?,F,colored
+pink,q3_1.png,q3_2.png,What color is this?,F,normal
+black,q4_1.png,q4_2.png,What color is this?,J,normal
+red,q5_1.png,q5_2.png,What color is this?,F,colored
+grey,q6_1.png,q6_2.png,What color is this?,J,colored
+orange,q7_1.png,q7_2.png,What color is this?,J,normal
+blue,q8_1.png,q8_2.png,What color is this?,F,colored
+yellow,q9_1.png,q9_2.png,What color is this?,F,colored
+brown,q10_1.png,q10_2.png,What color is this?,J,normal
